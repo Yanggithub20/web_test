@@ -38,6 +38,7 @@ List:
 
 Insert a figure:  
 <img src="figs/R.png" alt="drawing" width="400"/>
+<img src="figs/2000.png" alt="drawing" width="400"/>
 
 Insert a table:  
 
